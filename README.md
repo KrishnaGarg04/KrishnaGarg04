@@ -6,7 +6,7 @@
 
 ---
 
-##  What I Do  
+## What I Do  
 - Build and experiment with machine learning & deep learning models  
 - Implement generative models like GANs for image synthesis  
 - Develop end-to-end ML pipelines for projects in computer vision  
@@ -14,11 +14,11 @@
 
 ---
 
-##  Tech Stack  
-**Languages**: Python, SQL, Bash  
-**Libraries**: PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Pandas
-**Tools**: Git, Streamlit, FastAPI, CRIU, Docker 
-**Domains**: Computer Vision, Generative AI, Predictive Modeling, System Simulation  
+## Tech Stack  
+- Languages: Python, SQL, Bash
+- Libraries: PyTorch, TensorFlow, Scikit-learn, NumPy, OpenCV, Pandas
+- Tools: Git, Streamlit, FastAPI, CRIU, Docker 
+- Domains: Computer Vision, Generative AI, Predictive Modeling, System Simulation  
 
 ---
 
