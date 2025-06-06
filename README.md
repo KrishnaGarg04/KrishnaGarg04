@@ -1,8 +1,8 @@
 #  Hi, I'm Krishna Garg 
 
-🎓 Aspiring AI Engineer | 🤖 Machine Learning & Deep Learning Enthusiast  
-🔬 Passionate about building intelligent systems that learn, adapt, and generate  
-🌍 Exploring the future at the intersection of data, algorithms, and creativity
+ Aspiring AI Engineer |  Machine Learning & Deep Learning Enthusiast  
+ Passionate about building intelligent systems that learn, adapt, and generate  
+ Exploring the future at the intersection of data, algorithms, and creativity
 
 ---
 
