@@ -15,21 +15,21 @@
 
 ## 🚀 Featured Projects
 
-### 🎵 Audio-Reactive Generative AI — CLIP + StyleGAN3
+### 🎵 Audio-Reactive Generative AI - CLIP + StyleGAN3
 > Multimodal pipeline generating images conditioned on audio features by mapping audio embeddings into StyleGAN3's latent space for temporally responsive synthesis.
 
 `StyleGAN3` `CLIP` `PyTorch` `Generative AI`
 
 ---
 
-### 🚦 The Root Cause — AI Traffic Management
+### 🚦 The Root Cause - AI Traffic Management
 > Adaptive traffic control with YOLOv8 + Q-Learning. **26% reduction** in vehicle wait time, **95%+ detection accuracy**, real-time WebSocket dashboard. — *Smart India Hackathon 2025*
 
 `YOLOv8` `Reinforcement Learning` `WebSockets` `Computer Vision`
 
 ---
 
-### 🏥 Embody — Recovery Progress ML
+### 🏥 Embody - Recovery Progress ML
 > Full ML pipeline assessing physical and mental recovery from user data. Data wrangling → feature extraction → evaluation. - *HackData Hackathon*
 
 `ML Pipeline` `Health AI` `Pandas` `Scikit-learn`
@@ -49,7 +49,7 @@
 
 ## 💼 Experience
 
-**Data Science Intern @ Fealty Technologies** *(Dec 2023 – Jan 2024)*
+**Data Science Intern @ Fealty Technologies** *(Dec 2023 - Jan 2024)*
 Automated data pipelines with Pandas/NumPy, integrated SQLAlchemy DB (100K+ records), built FastAPI backend for real-time record updates.
 
 ---
