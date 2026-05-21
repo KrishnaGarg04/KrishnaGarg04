@@ -39,11 +39,11 @@
 
 ## 🏆 Achievements
 
-- Finalist — Health-Tech & AI Hackathon, **IIT-BHU** (Spirit'25)
+- Finalist - Health-Tech & AI Hackathon, **IIT-BHU** (Spirit'25)
 - Selected for **Smart India Hackathon** 2024 & 2025 (via GDSC SNU)
-- Finalist — **Hack2Hatch**, PEC Chandigarh
-- Andrew Ng — *Supervised ML: Regression & Classification* (Coursera)
-- Data Science Bootcamp — **IIT Guwahati** Summer Analytics
+- Finalist - **Hack2Hatch**, PEC Chandigarh
+- Andrew Ng - *Supervised ML: Regression & Classification* (Coursera)
+- Data Science Bootcamp - **IIT Guwahati** Summer Analytics
 
 ---
 
