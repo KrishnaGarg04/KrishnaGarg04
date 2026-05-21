@@ -62,9 +62,9 @@ Automated data pipelines with Pandas/NumPy, integrated SQLAlchemy DB (100K+ reco
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGarg04&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=AFA9EC&icon_color=5DCAA5&text_color=D3D1C7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGarg04&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KrishnaGarg04&theme=dark&hide_border=true&background=0d1117&ring=AFA9EC&fire=F0997B&currStreakLabel=9FE1CB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGarg04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
