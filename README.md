@@ -60,11 +60,3 @@ Automated data pipelines with Pandas/NumPy, integrated SQLAlchemy DB (100K+ reco
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna_Garg-0C447C?style=flat&logo=linkedin)](https://www.linkedin.com/in/gargkrishna04)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGarg04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGarg04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
