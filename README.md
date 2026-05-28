@@ -23,7 +23,7 @@
 ---
 
 ### 🚦 The Root Cause - AI Traffic Management
-> Adaptive traffic control with YOLOv8 + Q-Learning. **26% reduction** in vehicle wait time, **95%+ detection accuracy**, real-time WebSocket dashboard. — *Smart India Hackathon 2025*
+> Adaptive traffic control with YOLOv8 + Q-Learning. **26% reduction** in vehicle wait time, **95%+ detection accuracy**, real-time WebSocket dashboard. - *Smart India Hackathon 2025*
 
 `YOLOv8` `Reinforcement Learning` `WebSockets` `Computer Vision`
 
